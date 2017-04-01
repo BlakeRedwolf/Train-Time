@@ -1,0 +1,66 @@
+.jumbotron {
+	background: green;
+	color: #fff;
+	}
+
+.panel-success>.panel-heading {
+	color: #fff;
+    background-color: #337ab7;
+    border-color: #f9ec8c;
+}
+
+.panel-success {
+    border-color: #f9ec8c;
+}
+
+thead tr{
+
+		background-color:green;
+		color:#fff;	
+}
+
+thead tr th{
+		text-align:center;
+
+}
+
+.btn-default{
+
+		background-color:green;
+		color:#CCC;
+		font-weight:bold;
+		
+}
+
+.btn-default:hover{
+		background-color:green;
+		color:#FFF;
+		font-weight:bold;
+}
+
+.panel-primary>.panel-heading {
+    color: #fff;
+    background-color: green;
+}
+
+.btn-primary {
+    color: #CCC;
+    background: green;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: green;
+ 
+}
+
+.mainHeader{
+		background-color:green;
+		border:1px solid #CCC;
+		color:#fff;
+
+}
+
+#display > tr > td{
+		text-align:center;
+}
